@@ -28,10 +28,15 @@ for key, value of liveOptions
 	value.on Events.MouseOver, ->
 		this.animate
 			scale: 1.1
+			options:
+				time: 0.25
+			
 for key, value of liveOptions
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
+			options:
+				time: 0.35
 
 
 # $.elf.on Events.MouseOver, ->
