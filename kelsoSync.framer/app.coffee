@@ -15,10 +15,12 @@ $ = Framer.Importer.load("imported/1220kelsoSync@1x")
 # scale framer content down
 Framer.Device.contentScale	= 0.5
 
-# scrollKeepWatching = ScrollComponent.wrap $.scrollablekeepWatching
-# scrollKeepWatching.scrollVertical = false
-# scrollLive = ScrollComponent.wrap $.scrollableLiveContent
-# scrollLive.scrollVertical = false
+scrollKeepWatching = ScrollComponent.wrap $.scrollablekeepWatching
+scrollKeepWatching.scrollVertical = false
+scrollKeepWatching.width = Framer.Screen.width * 2 - 160
+scrollLive = ScrollComponent.wrap $.scrollableLiveContent
+scrollLive.scrollVertical = false
+scrollLive.width = Framer.Screen.width * 2 - 160
 
 curve1 = "spring(300,20,50)"
 
