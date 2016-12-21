@@ -3,7 +3,7 @@
 # http://framerjs.com/docs/#info.info
 
 Framer.Info =
-	title: ""
+	title: "Kelso Demo"
 	author: "Olivia Hill"
 	twitter: ""
 	description: ""
