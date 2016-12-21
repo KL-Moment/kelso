@@ -31,7 +31,7 @@ for option, i of liveOptions
 for option, i of liveOptions
 	option.on Events.Mouseout, ->
 		option.animate
-			scale: 1
+			scale: 1.5
 
 
 # $.elf.on Events.MouseOver, ->
