@@ -24,14 +24,14 @@ curve1 = "spring(300,20,50)"
 
 liveOptions = [$.elf, $.cnn, $.ugagt]
 
-for option, i of liveOptions
-	option.on Events.MouseOver, ->
-		option.animate
+for key, value of liveOptions
+	value.on Events.MouseOver, ->
+		this.animate
 			scale: 1.1
-for option, i of liveOptions
-	option.on Events.Mouseout, ->
-		option.animate
-			scale: 1.5
+for key, value of liveOptions
+	value.on Events.MouseOut, ->
+		this.animate
+			scale: 1
 
 
 # $.elf.on Events.MouseOver, ->
