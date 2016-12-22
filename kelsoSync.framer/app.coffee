@@ -204,13 +204,13 @@ blair.on Events.MouseOut, ->
 			time: 0.25
 
 isBlairthere = () ->
-	if blairInTheRoom = true 
+	if blairInTheRoom == true 
 		$.mainContent.visible = true
 		$.mainContent.animate 
 			opacity: 1
 		$.scrollableMainContent.visible = false
 		$.scrollableMainContent.opacity = 0
-	if blairInTheRoom = false 
+	if blairInTheRoom == false 
 		$.mainContent.visible = false
 		$.mainContent.animate 
 			opacity: 0
