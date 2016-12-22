@@ -12,15 +12,17 @@ Framer.Info =
 # Import file "1220kelsoSync"
 $ = Framer.Importer.load("imported/1220kelsoSync@1x")
 $.kelsoLogo.visible = false 
-growScroll = 2.3
+growScroll = 2.34
 
 # scale framer content down
 Framer.Device.contentScale	= 0.5
 scrollMainContent = ScrollComponent.wrap $.scrollableMainContent
 scrollMainContent.scrollHorizontal = false 
+scrollMainContent.contentInset = 
+	botton: 50
 
-scrollMainContent.width = Framer.Screen.width*2
-scrollMainContent.height = Framer.Screen.height*1.75
+scrollMainContent.width = Framer.Screen.width * 2
+scrollMainContent.height = Framer.Screen.height * 2
 
 #set scroll from live content
 scrollableLiveContentTrippAlone = ScrollComponent.wrap $.scrollableLiveContentTrippAlone
@@ -30,8 +32,8 @@ scrollableLiveContentTrippAlone.width = Framer.Screen.width * growScroll
 #set scroll for blair catch up
 scrollableBlairCatchUp = ScrollComponent.wrap $.scrollableBlairCatchUp
 scrollableBlairCatchUp.scrollVertical = false
-scrollableBlairCatchUp.width = Framer.Screen.width* growScroll
-
+scrollableBlairCatchUp.width = Framer.Screen.width * growScroll
+scrollableBlairCatchUp.height = 800
 
 #set scroll for family catch up
 scrollableFamilyCatchup = ScrollComponent.wrap $.scrollableFamilyCatchUp
@@ -127,4 +129,39 @@ for key, value of familyCatchUp
 			scale: 1
 			options:
 				time: 0.25
-				
+
+#animate catch up with Blair
+for key, value of blairCatchUp
+	value.on Events.MouseOver, ->
+		this.animate
+			opacity: 0
+			scale: 1.1
+			options:
+				time: 0.25
+
+	for key, value of blairCatchUp
+		value.on Events.MouseOver, ->
+			this.animate
+			scale: 1.1
+			options:
+				time: 0.25
+
+for key, value of blairCatchUp
+	value.on Events.MouseOut, ->
+		this.animate
+			scale: 1
+			opacity: 1
+			options:
+				time: 0.25
+
+	for key, value of blairCatchUp
+		value.on Events.MouseOut, ->
+			scale: 1
+			options:
+				time: 0.25
+# $.searchbar.placeBefore($.scrollableMainContent)
+# $.searchbar.centerFrame
+# $.searchbar.y = 1500
+
+
+

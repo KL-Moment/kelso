@@ -67,6 +67,99 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 				]
 			},
 			{
+				"objectId": "D4685C75-9F9F-4DB7-A99C-19644DB357CE",
+				"kind": "group",
+				"name": "searchbar",
+				"originalName": "searchbar",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -1,
+					"y": 2123,
+					"width": 1501,
+					"height": 250
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-searchbar-rdq2odvd.png",
+					"frame": {
+						"x": -1,
+						"y": 2123,
+						"width": 1501,
+						"height": 250
+					}
+				},
+				"children": [
+					{
+						"objectId": "7F918CBB-4D02-4018-AA87-B25EE45F10AF",
+						"kind": "group",
+						"name": "searchIcon",
+						"originalName": "searchIcon",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 302,
+							"y": 2213.6719854089533,
+							"width": 80,
+							"height": 73
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"children": [
+							{
+								"objectId": "A1375AC2-AAEF-4A03-AB4E-F50667B4F737",
+								"kind": "group",
+								"name": "Layer_1",
+								"originalName": "Layer_1",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 301.6974718918573,
+									"y": 2213.813252283571,
+									"width": 80,
+									"height": 73
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"children": [
+									{
+										"objectId": "9A3D489A-289D-4650-9D5F-392C3D269301",
+										"kind": "group",
+										"name": "Group",
+										"originalName": "Group",
+										"maskFrame": null,
+										"layerFrame": {
+											"x": 302.28082147267156,
+											"y": 2213.813252283571,
+											"width": 79,
+											"height": 73
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-Group-ouezrdq4.png",
+											"frame": {
+												"x": 302.28082147267156,
+												"y": 2213.813252283571,
+												"width": 79,
+												"height": 73
+											}
+										},
+										"children": []
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
 				"objectId": "EA08ED8C-C490-4DA0-84F9-B8D4519BD3D5",
 				"kind": "group",
 				"name": "scrollableMainContent",
@@ -75,13 +168,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 					"x": 0,
 					"y": 0,
 					"width": 1500,
-					"height": 4521.739130434783
+					"height": 2130.947347727794
 				},
 				"layerFrame": {
 					"x": 0,
-					"y": 300.00000000000006,
+					"y": 265.00000000000006,
 					"width": 1500,
-					"height": 4523
+					"height": 1859
 				},
 				"visible": true,
 				"metadata": {
@@ -91,9 +184,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 					"path": "images/Layer-scrollableMainContent-ruewoeve.png",
 					"frame": {
 						"x": 0,
-						"y": 300.00000000000006,
+						"y": 265.00000000000006,
 						"width": 1500,
-						"height": 4523
+						"height": 1859
 					}
 				},
 				"children": [
@@ -105,9 +198,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 0,
-							"y": 296.7246376811595,
+							"y": 264.7246376811595,
 							"width": 2029,
-							"height": 798
+							"height": 716
 						},
 						"visible": true,
 						"metadata": {
@@ -122,9 +215,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 98.33333333333326,
-									"y": 508.1014492753625,
+									"y": 453.7090481931582,
 									"width": 1930,
-									"height": 463
+									"height": 418
 								},
 								"visible": true,
 								"metadata": {
@@ -137,16 +230,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "cnnTA",
 										"originalName": "cnnTA*",
 										"maskFrame": {
-											"x": 0,
+											"x": 2.2737367544323206e-13,
 											"y": 0,
 											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"height": 388.54051700368694
 										},
 										"layerFrame": {
 											"x": 1401.3333333333333,
-											"y": 517.1304347826089,
+											"y": 462.932809705585,
 											"width": 627,
-											"height": 450
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -156,9 +249,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-cnnTA-mdq5othb.png",
 											"frame": {
 												"x": 1401.3333333333333,
-												"y": 517.1304347826089,
+												"y": 462.932809705585,
 												"width": 627,
-												"height": 450
+												"height": 405
 											}
 										},
 										"children": []
@@ -172,13 +265,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"x": 0,
 											"y": 0,
 											"width": 611.9516328792124,
-											"height": 441.2865694234681
+											"height": 395.77375618722056
 										},
 										"layerFrame": {
 											"x": 98.33333333333326,
-											"y": 508.13043478260886,
+											"y": 453.932809705585,
 											"width": 633,
-											"height": 462
+											"height": 416
 										},
 										"visible": true,
 										"metadata": {
@@ -188,9 +281,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-ugagtTA-rdfcmtjc.png",
 											"frame": {
 												"x": 98.33333333333326,
-												"y": 508.13043478260886,
+												"y": 453.932809705585,
 												"width": 633,
-												"height": 462
+												"height": 416
 											}
 										},
 										"children": []
@@ -204,13 +297,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"x": 0,
 											"y": 0,
 											"width": 610.8979888602229,
-											"height": 440.4418879119097
+											"height": 395.01619228708165
 										},
 										"layerFrame": {
 											"x": 749.3333333333333,
-											"y": 514.1304347826089,
+											"y": 459.932809705585,
 											"width": 627,
-											"height": 457
+											"height": 411
 										},
 										"visible": true,
 										"metadata": {
@@ -220,9 +313,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-pgagolfTA-rduxntaw.png",
 											"frame": {
 												"x": 749.3333333333333,
-												"y": 514.1304347826089,
+												"y": 459.932809705585,
 												"width": 627,
-												"height": 457
+												"height": 411
 											}
 										},
 										"children": []
@@ -235,14 +328,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 2525.36231884058,
-											"height": 507.24637681159425
+											"width": 2107,
+											"height": 454.9339402924762
 										},
 										"layerFrame": {
-											"x": -166.66666666666674,
-											"y": 489.13043478260886,
-											"width": 2526,
-											"height": 508
+											"x": -22.666666666666742,
+											"y": 437.932809705585,
+											"width": 2107,
+											"height": 455
 										},
 										"visible": true,
 										"metadata": {
@@ -251,10 +344,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-liveMaskTA-odmzneq2.png",
 											"frame": {
-												"x": -166.66666666666674,
-												"y": 489.13043478260886,
-												"width": 2526,
-												"height": 508
+												"x": -22.666666666666742,
+												"y": 437.932809705585,
+												"width": 2107,
+												"height": 455
 											}
 										},
 										"children": []
@@ -269,9 +362,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -0.6666666666667425,
-									"y": 297.1014492753625,
-									"width": 1787,
-									"height": 798
+									"y": 265.7090481931582,
+									"width": 1507,
+									"height": 715
 								},
 								"visible": true,
 								"metadata": {
@@ -281,9 +374,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-liveBackgroundTA-njrgotc5.png",
 									"frame": {
 										"x": -0.6666666666667425,
-										"y": 297.1014492753625,
-										"width": 1787,
-										"height": 798
+										"y": 265.7090481931582,
+										"width": 1507,
+										"height": 715
 									}
 								},
 								"children": []
@@ -298,9 +391,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": -48,
-							"y": 1198.7246376811595,
+							"y": 1074.7246376811595,
 							"width": 2080,
-							"height": 798
+							"height": 715
 						},
 						"visible": true,
 						"metadata": {
@@ -315,9 +408,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 100.89855072463763,
-									"y": 1394.2753623188405,
+									"y": 1248.8357768081435,
 									"width": 1931,
-									"height": 453
+									"height": 409
 								},
 								"visible": true,
 								"metadata": {
@@ -332,14 +425,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602228,
+											"height": 388.54051700368717
 										},
 										"layerFrame": {
 											"x": 1404.8985507246375,
-											"y": 1394.7246376811595,
+											"y": 1249.821914965652,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -349,9 +442,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-$30Rock-qumwqjze.png",
 											"frame": {
 												"x": 1404.8985507246375,
-												"y": 1394.7246376811595,
+												"y": 1249.821914965652,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -364,14 +457,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 436.84471749947886
+											"width": 610.8979888602228,
+											"height": 391.79002193788386
 										},
 										"layerFrame": {
 											"x": 1404.8985507246375,
-											"y": 1394.7246376811595,
+											"y": 1249.821914965652,
 											"width": 627,
-											"height": 453
+											"height": 408
 										},
 										"visible": true,
 										"metadata": {
@@ -381,9 +474,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-$30RockDulledOut-ndqxmdux.png",
 											"frame": {
 												"x": 1404.8985507246375,
-												"y": 1394.7246376811595,
+												"y": 1249.821914965652,
 												"width": 627,
-												"height": 453
+												"height": 408
 											}
 										},
 										"children": []
@@ -394,16 +487,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "billions",
 										"originalName": "billions*",
 										"maskFrame": {
-											"x": 0,
+											"x": 5.684341886080802e-14,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602228,
+											"height": 388.54051700368717
 										},
 										"layerFrame": {
-											"x": 100.89855072463763,
-											"y": 1394.7246376811595,
+											"x": 100.89855072463752,
+											"y": 1249.821914965652,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -412,10 +505,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-billions-njg1oeq3.png",
 											"frame": {
-												"x": 100.89855072463763,
-												"y": 1394.7246376811595,
+												"x": 100.89855072463752,
+												"y": 1249.821914965652,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -426,16 +519,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "dulledOutBillions",
 										"originalName": "dulledOutBillions*",
 										"maskFrame": {
-											"x": 0,
+											"x": 5.684341886080802e-14,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602228,
+											"height": 388.54051700368717
 										},
 										"layerFrame": {
-											"x": 100.89855072463763,
-											"y": 1394.7246376811595,
+											"x": 100.89855072463752,
+											"y": 1249.821914965652,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -444,10 +537,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-dulledOutBillions-mkq0mzfe.png",
 											"frame": {
-												"x": 100.89855072463763,
-												"y": 1394.7246376811595,
+												"x": 100.89855072463752,
+												"y": 1249.821914965652,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -460,14 +553,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"width": 610.8979888602227,
+											"height": 388.54051700368717
 										},
 										"layerFrame": {
-											"x": 748.8985507246376,
-											"y": 1394.7246376811595,
+											"x": 748.8985507246375,
+											"y": 1249.821914965652,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -476,10 +569,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-theCrown-ntyyreq5.png",
 											"frame": {
-												"x": 748.8985507246376,
-												"y": 1394.7246376811595,
+												"x": 748.8985507246375,
+												"y": 1249.821914965652,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -493,13 +586,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"x": 0,
 											"y": 0,
 											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"height": 388.54051700368717
 										},
 										"layerFrame": {
-											"x": 748.8985507246376,
-											"y": 1394.7246376811595,
+											"x": 748.8985507246375,
+											"y": 1249.821914965652,
 											"width": 628,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -508,10 +601,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-theCrownDulled-rkfeodnf.png",
 											"frame": {
-												"x": 748.8985507246376,
-												"y": 1394.7246376811595,
+												"x": 748.8985507246375,
+												"y": 1249.821914965652,
 												"width": 628,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -524,14 +617,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 3000,
-											"height": 634.0579710144928
+											"width": 2107,
+											"height": 568.6633634844276
 										},
 										"layerFrame": {
-											"x": -47.10144927536237,
-											"y": 1300.7246376811595,
-											"width": 3000,
-											"height": 635
+											"x": -47.101449275362484,
+											"y": 1165.821914965652,
+											"width": 2107,
+											"height": 569
 										},
 										"visible": true,
 										"metadata": {
@@ -540,10 +633,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-maskBlairCatchUp-odi3rei5.png",
 											"frame": {
-												"x": -47.10144927536237,
-												"y": 1300.7246376811595,
-												"width": 3000,
-												"height": 635
+												"x": -47.101449275362484,
+												"y": 1165.821914965652,
+												"width": 2107,
+												"height": 569
 											}
 										},
 										"children": []
@@ -558,9 +651,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -47.10144927536237,
-									"y": 1199.2753623188405,
-									"width": 1787,
-									"height": 798
+									"y": 1074.8357768081435,
+									"width": 1555,
+									"height": 715
 								},
 								"visible": true,
 								"metadata": {
@@ -570,9 +663,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-blairCatchUpBackground-nkqxrefb.png",
 									"frame": {
 										"x": -47.10144927536237,
-										"y": 1199.2753623188405,
-										"width": 1787,
-										"height": 798
+										"y": 1074.8357768081435,
+										"width": 1555,
+										"height": 715
 									}
 								},
 								"children": []
@@ -587,9 +680,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 3,
-							"y": 3042.7246376811595,
+							"y": 2728.7246376811595,
 							"width": 2044,
-							"height": 798
+							"height": 715
 						},
 						"visible": true,
 						"metadata": {
@@ -604,9 +697,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 24.39130434782612,
-									"y": 3151.4782608695655,
+									"y": 2814.8337883142785,
 									"width": 2022,
-									"height": 632
+									"height": 588
 								},
 								"visible": true,
 								"metadata": {
@@ -621,14 +714,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602228,
+											"height": 388.5405170036871
 										},
 										"layerFrame": {
 											"x": 1419.391304347826,
-											"y": 3238.927536231884,
+											"y": 2903.8199264717873,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -638,9 +731,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-goldbergs-rke2nki1.png",
 											"frame": {
 												"x": 1419.391304347826,
-												"y": 3238.927536231884,
+												"y": 2903.8199264717873,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -653,14 +746,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602228,
+											"height": 388.5405170036871
 										},
 										"layerFrame": {
 											"x": 1419.391304347826,
-											"y": 3238.927536231884,
+											"y": 2902.8199264717873,
 											"width": 627,
-											"height": 449
+											"height": 406
 										},
 										"visible": true,
 										"metadata": {
@@ -670,9 +763,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-goldbergsDulled-rdncntgz.png",
 											"frame": {
 												"x": 1419.391304347826,
-												"y": 3238.927536231884,
+												"y": 2902.8199264717873,
 												"width": 627,
-												"height": 449
+												"height": 406
 											}
 										},
 										"children": []
@@ -685,14 +778,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.905799312868,
-											"height": 434.7826086956522
+											"width": 610.9057993128679,
+											"height": 389.9405921036075
 										},
 										"layerFrame": {
-											"x": 24.39130434782612,
-											"y": 3150.9275362318845,
+											"x": 24.391304347826008,
+											"y": 2815.8199264717873,
 											"width": 808,
-											"height": 633
+											"height": 587
 										},
 										"visible": true,
 										"metadata": {
@@ -701,10 +794,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-americanhousewife-mjywqtre.png",
 											"frame": {
-												"x": 24.39130434782612,
-												"y": 3150.9275362318845,
+												"x": 24.391304347826008,
+												"y": 2815.8199264717873,
 												"width": 808,
-												"height": 633
+												"height": 587
 											}
 										},
 										"children": []
@@ -717,14 +810,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.905799312868,
-											"height": 434.7826086956522
+											"width": 610.9057993128679,
+											"height": 389.9405921036075
 										},
 										"layerFrame": {
-											"x": 24.39130434782612,
-											"y": 3150.9275362318845,
+											"x": 24.391304347826008,
+											"y": 2814.8199264717873,
 											"width": 809,
-											"height": 633
+											"height": 588
 										},
 										"visible": true,
 										"metadata": {
@@ -733,10 +826,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-americanhousewifeDulled-ouq2qti2.png",
 											"frame": {
-												"x": 24.39130434782612,
-												"y": 3150.9275362318845,
+												"x": 24.391304347826008,
+												"y": 2814.8199264717873,
 												"width": 809,
-												"height": 633
+												"height": 588
 											}
 										},
 										"children": []
@@ -747,16 +840,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "survivor",
 										"originalName": "survivor*",
 										"maskFrame": {
-											"x": 0,
+											"x": 2.2737367544323206e-13,
 											"y": 0,
 											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"height": 388.5405170036871
 										},
 										"layerFrame": {
-											"x": 767.3913043478261,
-											"y": 3238.927536231884,
+											"x": 767.391304347826,
+											"y": 2903.8199264717873,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -765,10 +858,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-survivor-rjgzmdqy.png",
 											"frame": {
-												"x": 767.3913043478261,
-												"y": 3238.927536231884,
+												"x": 767.391304347826,
+												"y": 2903.8199264717873,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -779,16 +872,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "survivorDulled",
 										"originalName": "survivorDulled*",
 										"maskFrame": {
-											"x": 0,
+											"x": 2.2737367544323206e-13,
 											"y": 0,
-											"width": 614.5211772660198,
-											"height": 433.22152909368174
+											"width": 614.5211772660202,
+											"height": 388.5405170036871
 										},
 										"layerFrame": {
-											"x": 767.3913043478261,
-											"y": 3238.927536231884,
+											"x": 767.391304347826,
+											"y": 2903.8199264717873,
 											"width": 631,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -797,10 +890,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-survivorDulled-mkfcndjc.png",
 											"frame": {
-												"x": 767.3913043478261,
-												"y": 3238.927536231884,
+												"x": 767.391304347826,
+												"y": 2903.8199264717873,
 												"width": 631,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -813,14 +906,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 3000,
-											"height": 670.2898550724638
+											"width": 2107,
+											"height": 601.1584128263947
 										},
 										"layerFrame": {
-											"x": -32.60869565217388,
-											"y": 3144.9275362318845,
-											"width": 3000,
-											"height": 671
+											"x": -32.60869565217399,
+											"y": 2819.8199264717873,
+											"width": 2107,
+											"height": 602
 										},
 										"visible": true,
 										"metadata": {
@@ -829,10 +922,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-keepwatchingMask-q0m2mkjb.png",
 											"frame": {
-												"x": -32.60869565217388,
-												"y": 3144.9275362318845,
-												"width": 3000,
-												"height": 671
+												"x": -32.60869565217399,
+												"y": 2819.8199264717873,
+												"width": 2107,
+												"height": 602
 											}
 										},
 										"children": []
@@ -846,10 +939,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"originalName": "backgroundCatchUp*",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 3.3913043478261073,
-									"y": 3043.4782608695655,
-									"width": 1751,
-									"height": 798
+									"x": 3.3913043478261216,
+									"y": 2728.8337883142785,
+									"width": 1495,
+									"height": 715
 								},
 								"visible": true,
 								"metadata": {
@@ -858,10 +951,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-backgroundCatchUp-mze2otzc.png",
 									"frame": {
-										"x": 3.3913043478261073,
-										"y": 3043.4782608695655,
-										"width": 1751,
-										"height": 798
+										"x": 3.3913043478261216,
+										"y": 2728.8337883142785,
+										"width": 1495,
+										"height": 715
 									}
 								},
 								"children": []
@@ -876,9 +969,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": -8,
-							"y": 4035.7246376811595,
-							"width": 1758,
-							"height": 798
+							"y": 3618.7246376811595,
+							"width": 1508,
+							"height": 716
 						},
 						"visible": true,
 						"metadata": {
@@ -893,9 +986,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -7.246376811594246,
-									"y": 4275.23188405797,
+									"y": 3833.198140284182,
 									"width": 1508,
-									"height": 410
+									"height": 368
 								},
 								"visible": true,
 								"metadata": {
@@ -910,9 +1003,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": null,
 										"layerFrame": {
 											"x": -7.246376811594246,
-											"y": 4275.362318840579,
+											"y": 3833.6654659411665,
 											"width": 1508,
-											"height": 410
+											"height": 368
 										},
 										"visible": true,
 										"metadata": {
@@ -922,9 +1015,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-youreallcaughtupText-qzczneu5.png",
 											"frame": {
 												"x": -7.246376811594246,
-												"y": 4275.362318840579,
+												"y": 3833.6654659411665,
 												"width": 1508,
-												"height": 410
+												"height": 368
 											}
 										},
 										"children": []
@@ -938,10 +1031,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"originalName": "caughtUpBackground*",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": -0.2463768115942031,
-									"y": 4036.231884057971,
-									"width": 1751,
-									"height": 798
+									"x": -0.24637681159424574,
+									"y": 3619.198140284182,
+									"width": 1498,
+									"height": 715
 								},
 								"visible": true,
 								"metadata": {
@@ -950,10 +1043,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-caughtUpBackground-nunfn0rb.png",
 									"frame": {
-										"x": -0.2463768115942031,
-										"y": 4036.231884057971,
-										"width": 1751,
-										"height": 798
+										"x": -0.24637681159424574,
+										"y": 3619.198140284182,
+										"width": 1498,
+										"height": 715
 									}
 								},
 								"children": []
@@ -968,9 +1061,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"maskFrame": null,
 						"layerFrame": {
 							"x": -8,
-							"y": 2107.7246376811595,
+							"y": 1889.7246376811595,
 							"width": 2040,
-							"height": 799
+							"height": 716
 						},
 						"visible": true,
 						"metadata": {
@@ -984,10 +1077,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"originalName": "scrollableYoureWatching",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 96.75362318840578,
-									"y": 2303.6956521739125,
+									"x": 96.75362318840575,
+									"y": 2064.461515291522,
 									"width": 1935,
-									"height": 453
+									"height": 409
 								},
 								"visible": true,
 								"metadata": {
@@ -1000,16 +1093,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "parksAndRec",
 										"originalName": "parksAndRec*",
 										"maskFrame": {
-											"x": 0,
+											"x": 2.2737367544323206e-13,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.897988860223,
+											"height": 388.540517003687
 										},
 										"layerFrame": {
-											"x": 1405.3768115942028,
-											"y": 2304.144927536232,
+											"x": 1405.376811594203,
+											"y": 2065.4476534490304,
 											"width": 627,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1018,10 +1111,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-parksAndRec-rdizmeuw.png",
 											"frame": {
-												"x": 1405.3768115942028,
-												"y": 2304.144927536232,
+												"x": 1405.376811594203,
+												"y": 2065.4476534490304,
 												"width": 627,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -1032,16 +1125,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"name": "parksAndRecDulled",
 										"originalName": "parksAndRecDulled*",
 										"maskFrame": {
-											"x": 0,
+											"x": 2.2737367544323206e-13,
 											"y": 0,
-											"width": 610.8979888602227,
-											"height": 433.22152909368174
+											"width": 610.8979888602232,
+											"height": 388.540517003687
 										},
 										"layerFrame": {
-											"x": 1404.3768115942028,
-											"y": 2304.144927536232,
+											"x": 1404.376811594203,
+											"y": 2065.4476534490304,
 											"width": 628,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1050,10 +1143,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-parksAndRecDulled-oum3ndfg.png",
 											"frame": {
-												"x": 1404.3768115942028,
-												"y": 2304.144927536232,
+												"x": 1404.376811594203,
+												"y": 2065.4476534490304,
 												"width": 628,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -1067,13 +1160,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"x": 0,
 											"y": 0,
 											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"height": 388.540517003687
 										},
 										"layerFrame": {
 											"x": 752.3768115942029,
-											"y": 2304.144927536232,
+											"y": 2065.4476534490304,
 											"width": 628,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1083,9 +1176,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-bachelor-mdnbnenf.png",
 											"frame": {
 												"x": 752.3768115942029,
-												"y": 2304.144927536232,
+												"y": 2065.4476534490304,
 												"width": 628,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -1099,13 +1192,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"x": 0,
 											"y": 0,
 											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"height": 388.540517003687
 										},
 										"layerFrame": {
 											"x": 752.3768115942029,
-											"y": 2304.144927536232,
+											"y": 2065.4476534490304,
 											"width": 628,
-											"height": 449
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1115,9 +1208,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-bachelorDulledOut-mdvcnei5.png",
 											"frame": {
 												"x": 752.3768115942029,
-												"y": 2304.144927536232,
+												"y": 2065.4476534490304,
 												"width": 628,
-												"height": 449
+												"height": 405
 											}
 										},
 										"children": []
@@ -1130,14 +1223,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"width": 610.8979888602229,
+											"height": 388.540517003687
 										},
 										"layerFrame": {
-											"x": 97.37681159420283,
-											"y": 2307.1449275362315,
+											"x": 97.37681159420288,
+											"y": 2068.4476534490304,
 											"width": 627,
-											"height": 450
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1146,10 +1239,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-nakedandafraid-nza5q0nc.png",
 											"frame": {
-												"x": 97.37681159420283,
-												"y": 2307.1449275362315,
+												"x": 97.37681159420288,
+												"y": 2068.4476534490304,
 												"width": 627,
-												"height": 450
+												"height": 405
 											}
 										},
 										"children": []
@@ -1162,14 +1255,14 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"maskFrame": {
 											"x": 0,
 											"y": 0,
-											"width": 610.8979888602228,
-											"height": 433.22152909368174
+											"width": 610.8979888602229,
+											"height": 388.540517003687
 										},
 										"layerFrame": {
-											"x": 97.37681159420283,
-											"y": 2307.1449275362315,
+											"x": 97.37681159420288,
+											"y": 2068.4476534490304,
 											"width": 627,
-											"height": 450
+											"height": 405
 										},
 										"visible": true,
 										"metadata": {
@@ -1178,10 +1271,10 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"image": {
 											"path": "images/Layer-nakedAndAfraidDulled-mzvbouqw.png",
 											"frame": {
-												"x": 97.37681159420283,
-												"y": 2307.1449275362315,
+												"x": 97.37681159420288,
+												"y": 2068.4476534490304,
 												"width": 627,
-												"height": 450
+												"height": 405
 											}
 										},
 										"children": []
@@ -1193,15 +1286,15 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"originalName": "whatyourewatchingMask*",
 										"maskFrame": {
 											"x": 0,
-											"y": 0,
-											"width": 2960.144927536232,
-											"height": 634.0579710144928
+											"y": -4.547473508864641e-13,
+											"width": 2107,
+											"height": 568.6633634844274
 										},
 										"layerFrame": {
 											"x": -3.623188405797123,
-											"y": 2210.1449275362315,
-											"width": 2961,
-											"height": 635
+											"y": 1981.4476534490304,
+											"width": 2107,
+											"height": 569
 										},
 										"visible": true,
 										"metadata": {
@@ -1211,9 +1304,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 											"path": "images/Layer-whatyourewatchingMask-mdnerty1.png",
 											"frame": {
 												"x": -3.623188405797123,
-												"y": 2210.1449275362315,
-												"width": 2961,
-												"height": 635
+												"y": 1981.4476534490304,
+												"width": 2107,
+												"height": 569
 											}
 										},
 										"children": []
@@ -1228,9 +1321,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"maskFrame": null,
 								"layerFrame": {
 									"x": -7.246376811594246,
-									"y": 2108.695652173913,
-									"width": 1787,
-									"height": 798
+									"y": 1890.4615152915223,
+									"width": 1511,
+									"height": 715
 								},
 								"visible": true,
 								"metadata": {
@@ -1240,105 +1333,12 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-whatyourewatchingBackground-otm2ndfd.png",
 									"frame": {
 										"x": -7.246376811594246,
-										"y": 2108.695652173913,
-										"width": 1787,
-										"height": 798
+										"y": 1890.4615152915223,
+										"width": 1511,
+										"height": 715
 									}
 								},
 								"children": []
-							}
-						]
-					}
-				]
-			},
-			{
-				"objectId": "D4685C75-9F9F-4DB7-A99C-19644DB357CE",
-				"kind": "group",
-				"name": "searchbar",
-				"originalName": "searchbar",
-				"maskFrame": null,
-				"layerFrame": {
-					"x": 235.00000000000003,
-					"y": 4887,
-					"width": 1099,
-					"height": 153
-				},
-				"visible": true,
-				"metadata": {
-					"opacity": 1
-				},
-				"image": {
-					"path": "images/Layer-searchbar-rdq2odvd.png",
-					"frame": {
-						"x": 235.00000000000003,
-						"y": 4887,
-						"width": 1099,
-						"height": 153
-					}
-				},
-				"children": [
-					{
-						"objectId": "7F918CBB-4D02-4018-AA87-B25EE45F10AF",
-						"kind": "group",
-						"name": "searchIcon",
-						"originalName": "searchIcon",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 302.5072463768116,
-							"y": 4922.68115942029,
-							"width": 80,
-							"height": 82
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "A1375AC2-AAEF-4A03-AB4E-F50667B4F737",
-								"kind": "group",
-								"name": "Layer_1",
-								"originalName": "Layer_1",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 302.20471826866884,
-									"y": 4923.188405797102,
-									"width": 80,
-									"height": 82
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 1
-								},
-								"children": [
-									{
-										"objectId": "9A3D489A-289D-4650-9D5F-392C3D269301",
-										"kind": "group",
-										"name": "Group",
-										"originalName": "Group",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 302.7880678494831,
-											"y": 4923.188405797102,
-											"width": 79,
-											"height": 82
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-Group-ouezrdq4.png",
-											"frame": {
-												"x": 302.7880678494831,
-												"y": 4923.188405797102,
-												"width": 79,
-												"height": 82
-											}
-										},
-										"children": []
-									}
-								]
 							}
 						]
 					}
@@ -1352,9 +1352,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 0,
-					"y": -36.999999999999986,
+					"y": -37,
 					"width": 1500,
-					"height": 5139
+					"height": 5168
 				},
 				"visible": true,
 				"metadata": {
@@ -1364,9 +1364,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 					"path": "images/Layer-backgroundTrippAlone-m0mxqkjc.png",
 					"frame": {
 						"x": 0,
-						"y": -36.999999999999986,
+						"y": -37,
 						"width": 1500,
-						"height": 5139
+						"height": 5168
 					}
 				},
 				"children": []
