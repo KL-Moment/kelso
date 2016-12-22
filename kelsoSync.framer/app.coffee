@@ -88,8 +88,6 @@ for key, value of liveOptions
 			scale: 1.1
 			options:
 				time: 0.25
-			
-for key, value of liveOptions
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
@@ -102,13 +100,11 @@ for key, value of keepWatchingOptions
 			opacity: 0
 			options:
 				time: 0.25
-
-	for key, value of dulledOutoptions
-		value.on Events.MouseOver, ->
-			this.animate
-			scale: 1.1
-			options:
-				time: 0.25
+	value.on Events.MouseOver, ->
+		this.animate
+		scale: 1.1
+		options:
+			time: 0.25
 
 for key, value of keepWatchingOptions
 	value.on Events.MouseOut, ->
@@ -116,12 +112,10 @@ for key, value of keepWatchingOptions
 			opacity: 1
 			options:
 				time: 0.25
-
-	for key, value of dulledOutoptions
-		value.on Events.MouseOut, ->
-			scale: 1
-			options:
-				time: 0.35
+	value.on Events.MouseOut, ->
+		scale: 1
+		options:
+			time: 0.35
 
 
 #animate live options
@@ -132,7 +126,6 @@ for key, value of liveTrippAlone
 			options:
 				time: 0.25
 			
-for key, value of liveTrippAlone
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
@@ -147,27 +140,13 @@ for key, value of youreWatching
 			scale: 1.1
 			options:
 				time: 0.25
-
-	for key, value of youreWatching
-		value.on Events.MouseOver, ->
-			this.animate
-			scale: 1.1
-			options:
-				time: 0.25
-
-for key, value of youreWatching
+								
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
 			opacity: 1
 			options:
 				time: 0.25
-
-	for key, value of youreWatching
-		value.on Events.MouseOut, ->
-			scale: 1
-			options:
-				time: 0.35
 
 #animate catch up with the family
 
@@ -179,14 +158,6 @@ for key, value of familyCatchUp
 			options:
 				time: 0.25
 
-	for key, value of familyCatchUp
-		value.on Events.MouseOver, ->
-			this.animate
-			scale: 1.1
-			options:
-				time: 0.25
-
-for key, value of familyCatchUp
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
@@ -194,11 +165,6 @@ for key, value of familyCatchUp
 			options:
 				time: 0.25
 
-	for key, value of familyCatchUp
-		value.on Events.MouseOut, ->
-			scale: 1
-			options:
-				time: 0.25
 
 #animate catch up with Blair
 for key, value of blairCatchUp
@@ -209,24 +175,10 @@ for key, value of blairCatchUp
 			options:
 				time: 0.25
 
-	for key, value of blairCatchUp
-		value.on Events.MouseOver, ->
-			this.animate
-			scale: 1.1
-			options:
-				time: 0.25
-
-for key, value of blairCatchUp
 	value.on Events.MouseOut, ->
 		this.animate
 			scale: 1
 			opacity: 1
-			options:
-				time: 0.25
-
-	for key, value of blairCatchUp
-		value.on Events.MouseOut, ->
-			scale: 1
 			options:
 				time: 0.25
 
