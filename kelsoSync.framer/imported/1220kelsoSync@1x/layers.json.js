@@ -17,16 +17,16 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 		"backgroundColor": "rgba(255, 255, 255, 1)",
 		"children": [
 			{
-				"objectId": "D84AF950-BA29-4C05-B8AB-AEF3DEEFD3F0",
+				"objectId": "A342B2B1-4B18-4084-91B3-F4E6B370F4FC",
 				"kind": "group",
 				"name": "Header",
 				"originalName": "Header",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 73,
+					"x": 108,
 					"y": 28,
-					"width": 1330,
-					"height": 234
+					"width": 1306,
+					"height": 235
 				},
 				"visible": true,
 				"metadata": {
@@ -34,63 +34,133 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "E0BE5329-4FCE-45C7-A311-C90FF037C90E",
+						"objectId": "34D16D0B-70B8-4868-AFFD-C79E56174483",
 						"kind": "group",
-						"name": "menuLines",
-						"originalName": "menuLines",
+						"name": "kelsoLogo",
+						"originalName": "kelsoLogo",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 73.08695652173913,
-							"y": 74.98550724637681,
-							"width": 99,
-							"height": 52
+							"x": 108.69565217391306,
+							"y": 86.9565217391305,
+							"width": 254,
+							"height": 79
 						},
 						"visible": true,
 						"metadata": {
 							"opacity": 1
 						},
-						"image": {
-							"path": "images/Layer-menuLines-rtbcrtuz.png",
-							"frame": {
-								"x": 73.08695652173913,
-								"y": 74.98550724637681,
-								"width": 99,
-								"height": 52
+						"children": [
+							{
+								"objectId": "4904FC76-43AA-4F69-8B60-F291F8115F5D",
+								"kind": "group",
+								"name": "playButton",
+								"originalName": "playButton",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 291.6956521739131,
+									"y": 92.95652173913051,
+									"width": 71,
+									"height": 72
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 0.9
+								},
+								"image": {
+									"path": "images/Layer-playButton-ndkwnezd.png",
+									"frame": {
+										"x": 291.6956521739131,
+										"y": 92.95652173913051,
+										"width": 71,
+										"height": 72
+									}
+								},
+								"children": [
+									{
+										"objectId": "63460E72-C7E1-4F4D-B12F-2334E11774D9",
+										"kind": "group",
+										"name": "Group_5",
+										"originalName": "Group 5",
+										"maskFrame": {
+											"x": 0,
+											"y": 0.17761012095697748,
+											"width": 70.15389343847734,
+											"height": 70.63403599890435
+										},
+										"layerFrame": {
+											"x": 291.66666666666674,
+											"y": 93.39130434782616,
+											"width": 71,
+											"height": 71
+										},
+										"visible": true,
+										"metadata": {
+											"opacity": 1
+										},
+										"image": {
+											"path": "images/Layer-Group_5-njm0njbf.png",
+											"frame": {
+												"x": 291.66666666666674,
+												"y": 93.39130434782616,
+												"width": 71,
+												"height": 71
+											}
+										},
+										"children": []
+									}
+								]
+							},
+							{
+								"objectId": "84BEE27D-806D-4346-8481-E33FDF85585A",
+								"kind": "group",
+								"name": "kelso",
+								"originalName": "kelso",
+								"maskFrame": null,
+								"layerFrame": {
+									"x": 108.69565217391312,
+									"y": 86.95652173913051,
+									"width": 128,
+									"height": 79
+								},
+								"visible": true,
+								"metadata": {
+									"opacity": 1
+								},
+								"image": {
+									"path": "images/Layer-kelso-odrcruuy.png",
+									"frame": {
+										"x": 108.69565217391312,
+										"y": 86.95652173913051,
+										"width": 128,
+										"height": 79
+									}
+								},
+								"children": []
 							}
-						},
-						"children": []
+						]
 					},
 					{
 						"objectId": "94F836C4-A6A0-429E-958C-9B0A7CB4CBC6",
 						"kind": "group",
-						"name": "avatar",
-						"originalName": "avatar",
+						"name": "avatars",
+						"originalName": "avatars",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 1166.086956521739,
-							"y": 28.985507246376812,
-							"width": 237,
-							"height": 233
+							"x": 1165.695652173913,
+							"y": 28.956521739130494,
+							"width": 249,
+							"height": 234
 						},
 						"visible": true,
 						"metadata": {
 							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-avatar-otrgodm2.png",
-							"frame": {
-								"x": 1166.086956521739,
-								"y": 28.985507246376812,
-								"width": 237,
-								"height": 233
-							}
 						},
 						"children": [
 							{
 								"objectId": "65B93A16-4A1B-4309-9589-714A4670832C",
 								"kind": "group",
 								"name": "tripp",
-								"originalName": "tripp",
+								"originalName": "tripp*",
 								"maskFrame": null,
 								"layerFrame": {
 									"x": 1166.6666666666665,
@@ -111,143 +181,31 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 156
 									}
 								},
-								"children": [
-									{
-										"objectId": "99403006-80B2-471E-9CA2-0E89099A9C0D",
-										"kind": "group",
-										"name": "avatar1",
-										"originalName": "avatar",
-										"maskFrame": {
-											"x": 0,
-											"y": 0,
-											"width": 142.0270371197856,
-											"height": 142.02847142355645
-										},
-										"layerFrame": {
-											"x": 1172.6666666666665,
-											"y": 34.98550724637681,
-											"width": 142,
-											"height": 143
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-avatar-otk0mdmw.png",
-											"frame": {
-												"x": 1172.6666666666665,
-												"y": 34.98550724637681,
-												"width": 142,
-												"height": 143
-											}
-										},
-										"children": []
-									}
-								]
-							}
-						]
-					},
-					{
-						"objectId": "2E4629E0-8050-46D9-932D-F9B7F4D86BD4",
-						"kind": "group",
-						"name": "kelsoLogo",
-						"originalName": "kelsoLogo",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 326.0869565217391,
-							"y": 60.98550724637681,
-							"width": 254,
-							"height": 80
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"children": [
-							{
-								"objectId": "5B6B8A2A-1F35-4E29-B174-4B4E6CFEE25B",
-								"kind": "group",
-								"name": "playButton",
-								"originalName": "playButton",
-								"maskFrame": null,
-								"layerFrame": {
-									"x": 509.0869565217391,
-									"y": 67.59420289855072,
-									"width": 71,
-									"height": 72
-								},
-								"visible": true,
-								"metadata": {
-									"opacity": 0.9
-								},
-								"image": {
-									"path": "images/Layer-playButton-nui2qjhb.png",
-									"frame": {
-										"x": 509.0869565217391,
-										"y": 67.59420289855072,
-										"width": 71,
-										"height": 72
-									}
-								},
-								"children": [
-									{
-										"objectId": "FDBCB501-3CB1-4535-9165-9506870FA84A",
-										"kind": "group",
-										"name": "Group_5",
-										"originalName": "Group 5",
-										"maskFrame": {
-											"x": 0,
-											"y": 0.17761012095697748,
-											"width": 70.15389343847734,
-											"height": 70.63403599890435
-										},
-										"layerFrame": {
-											"x": 509.05797101449275,
-											"y": 68.02898550724638,
-											"width": 71,
-											"height": 71
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-Group_5-rkrcq0i1.png",
-											"frame": {
-												"x": 509.05797101449275,
-												"y": 68.02898550724638,
-												"width": 71,
-												"height": 71
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
-								"objectId": "D0C81CA7-E217-47E7-AFD3-E4C967613B65",
+								"objectId": "95E06253-5D32-4E39-B13E-62C0290090A7",
 								"kind": "group",
-								"name": "kelso",
-								"originalName": "kelso",
+								"name": "blair",
+								"originalName": "blair*",
 								"maskFrame": null,
 								"layerFrame": {
-									"x": 326.0869565217391,
-									"y": 61.594202898550726,
-									"width": 128,
-									"height": 79
+									"x": 1257.6666666666665,
+									"y": 106.98550724637681,
+									"width": 157,
+									"height": 156
 								},
 								"visible": true,
 								"metadata": {
 									"opacity": 1
 								},
 								"image": {
-									"path": "images/Layer-kelso-rdbdodfd.png",
+									"path": "images/Layer-blair-otvfmdyy.png",
 									"frame": {
-										"x": 326.0869565217391,
-										"y": 61.594202898550726,
-										"width": 128,
-										"height": 79
+										"x": 1257.6666666666665,
+										"y": 106.98550724637681,
+										"width": 157,
+										"height": 156
 									}
 								},
 								"children": []
@@ -303,7 +261,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"objectId": "B81DD910-2BE4-4F12-A7E8-FA705FBA30AD",
 								"kind": "group",
 								"name": "$30Rock",
-								"originalName": "30Rock",
+								"originalName": "30Rock*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -329,41 +287,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "17569A71-A0DC-4257-808C-38D7AA590DDF",
-										"kind": "group",
-										"name": "titlebar",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1265.9275362318842,
-											"y": 1507.246376811594,
-											"width": 868,
-											"height": 435
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-mtc1njlb.png",
-											"frame": {
-												"x": 1265.9275362318842,
-												"y": 1507.246376811594,
-												"width": 868,
-												"height": 435
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "44D53609-0B05-4B87-B2D9-2AD1DE78D740",
 								"kind": "group",
 								"name": "$30RockDulledOut",
-								"originalName": "30RockDulledOut",
+								"originalName": "30RockDulledOut*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -372,7 +302,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								},
 								"layerFrame": {
 									"x": 1386.7826086956522,
-									"y": 1503.1304347826087,
+									"y": 1504.1304347826087,
 									"width": 627,
 									"height": 453
 								},
@@ -384,120 +314,18 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-$30RockDulledOut-ndrentm2.png",
 									"frame": {
 										"x": 1386.7826086956522,
-										"y": 1503.1304347826087,
+										"y": 1504.1304347826087,
 										"width": 627,
 										"height": 453
 									}
 								},
-								"children": [
-									{
-										"objectId": "9FE100FE-959D-4BDB-AF31-AA9D85C0DAB9",
-										"kind": "group",
-										"name": "play",
-										"originalName": "play",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1632.9275362318842,
-											"y": 1655.246376811594,
-											"width": 133,
-											"height": 125
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-play-ouzfmtaw.png",
-											"frame": {
-												"x": 1632.9275362318842,
-												"y": 1655.246376811594,
-												"width": 133,
-												"height": 125
-											}
-										},
-										"children": [
-											{
-												"objectId": "69765DD9-39BA-4C8B-860E-BA818F7FF8EE",
-												"kind": "group",
-												"name": "group",
-												"originalName": "group",
-												"maskFrame": null,
-												"layerFrame": {
-													"x": 1683.3043478260872,
-													"y": 1687.4202898550725,
-													"width": 45,
-													"height": 52
-												},
-												"visible": true,
-												"metadata": {
-													"opacity": 1
-												},
-												"children": [
-													{
-														"objectId": "A376AD72-65E4-42C6-81B6-2C60F173A18D",
-														"kind": "group",
-														"name": "Group_2",
-														"originalName": "Group 2",
-														"maskFrame": null,
-														"layerFrame": {
-															"x": 1683.0692431562,
-															"y": 1687.8115942028985,
-															"width": 45,
-															"height": 52
-														},
-														"visible": true,
-														"metadata": {
-															"opacity": 1
-														},
-														"image": {
-															"path": "images/Layer-Group_2-qtm3nkfe.png",
-															"frame": {
-																"x": 1683.0692431562,
-																"y": 1687.8115942028985,
-																"width": 45,
-																"height": 52
-															}
-														},
-														"children": []
-													}
-												]
-											}
-										]
-									},
-									{
-										"objectId": "2850A6C5-2FC6-40BF-BB59-30D0096A76EA",
-										"kind": "group",
-										"name": "titlebar1",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1265.9275362318842,
-											"y": 1507.246376811594,
-											"width": 868,
-											"height": 435
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-mjg1mee2.png",
-											"frame": {
-												"x": 1265.9275362318842,
-												"y": 1507.246376811594,
-												"width": 868,
-												"height": 435
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "5017EF04-96B5-45A0-890A-18284D246352",
 								"kind": "group",
 								"name": "billions",
-								"originalName": "billions",
+								"originalName": "billions*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -523,41 +351,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "A69D7F2C-7DF3-41DD-AE33-43853A4BC528",
-										"kind": "group",
-										"name": "titlebar2",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 90.57971014492755,
-											"y": 1507.246376811594,
-											"width": 638,
-											"height": 68
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-qty5rddg.png",
-											"frame": {
-												"x": 90.57971014492755,
-												"y": 1507.246376811594,
-												"width": 638,
-												"height": 68
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "FCB232B0-C759-4012-94F4-806CB2280136",
 								"kind": "group",
 								"name": "theCrown",
-								"originalName": "theCrown",
+								"originalName": "theCrown*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -583,41 +383,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "C13C6C8D-FDAE-413D-AA68-8BF0F439CCF3",
-										"kind": "group",
-										"name": "titlebar3",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 716.1304347826086,
-											"y": 1507.246376811594,
-											"width": 642,
-											"height": 68
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-qzezqzzd.png",
-											"frame": {
-												"x": 716.1304347826086,
-												"y": 1507.246376811594,
-												"width": 642,
-												"height": 68
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "ACA3DF47-D8DA-444E-8AD6-82686C8E05CA",
 								"kind": "group",
 								"name": "theCrownDulled",
-								"originalName": "theCrownDulled",
+								"originalName": "theCrownDulled*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -643,115 +415,13 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "C9E927B5-0A04-4A7A-8733-2339F65246A1",
-										"kind": "group",
-										"name": "play1",
-										"originalName": "play",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 977.1304347826087,
-											"y": 1651.2463768115938,
-											"width": 133,
-											"height": 125
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-play-qzlfoti3.png",
-											"frame": {
-												"x": 977.1304347826087,
-												"y": 1651.2463768115938,
-												"width": 133,
-												"height": 125
-											}
-										},
-										"children": [
-											{
-												"objectId": "03400630-C0E4-41B8-8E80-A9D55C36B912",
-												"kind": "group",
-												"name": "group1",
-												"originalName": "group",
-												"maskFrame": null,
-												"layerFrame": {
-													"x": 1027.5072463768115,
-													"y": 1683.7971014492753,
-													"width": 45,
-													"height": 52
-												},
-												"visible": true,
-												"metadata": {
-													"opacity": 1
-												},
-												"children": [
-													{
-														"objectId": "F2DB7D01-3D96-4F82-9158-056BECD3C522",
-														"kind": "group",
-														"name": "Group_21",
-														"originalName": "Group 2",
-														"maskFrame": null,
-														"layerFrame": {
-															"x": 1027.2721417069242,
-															"y": 1684.1884057971013,
-															"width": 45,
-															"height": 52
-														},
-														"visible": true,
-														"metadata": {
-															"opacity": 1
-														},
-														"image": {
-															"path": "images/Layer-Group_2-rjjeqjde.png",
-															"frame": {
-																"x": 1027.2721417069242,
-																"y": 1684.1884057971013,
-																"width": 45,
-																"height": 52
-															}
-														},
-														"children": []
-													}
-												]
-											}
-										]
-									},
-									{
-										"objectId": "BC6B4820-0BD1-4BC7-A90A-FA5BF4C03892",
-										"kind": "group",
-										"name": "titlebar4",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 716.1304347826086,
-											"y": 1507.246376811594,
-											"width": 642,
-											"height": 68
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-qkm2qjq4.png",
-											"frame": {
-												"x": 716.1304347826086,
-												"y": 1507.246376811594,
-												"width": 642,
-												"height": 68
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "4590A802-D6C6-4D9F-AB2D-6BF64D22058B",
 								"kind": "group",
 								"name": "dulledOutBillions",
-								"originalName": "dulledOutBillions",
+								"originalName": "dulledOutBillions*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -777,109 +447,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "3070D760-6581-4146-B283-0DD89347ADDA",
-										"kind": "group",
-										"name": "play2",
-										"originalName": "play",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 328.5797101449275,
-											"y": 1651.2463768115938,
-											"width": 133,
-											"height": 125
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-play-mza3meq3.png",
-											"frame": {
-												"x": 328.5797101449275,
-												"y": 1651.2463768115938,
-												"width": 133,
-												"height": 125
-											}
-										},
-										"children": [
-											{
-												"objectId": "696C3F0F-FEE6-49C1-BF56-FF09D84C1FE8",
-												"kind": "group",
-												"name": "group2",
-												"originalName": "group",
-												"maskFrame": null,
-												"layerFrame": {
-													"x": 378.95652173913044,
-													"y": 1683.7971014492753,
-													"width": 45,
-													"height": 52
-												},
-												"visible": true,
-												"metadata": {
-													"opacity": 1
-												},
-												"children": [
-													{
-														"objectId": "F4151093-D43D-4C51-8C0F-EB38F654D187",
-														"kind": "group",
-														"name": "Group_22",
-														"originalName": "Group 2",
-														"maskFrame": null,
-														"layerFrame": {
-															"x": 378.72141706924316,
-															"y": 1684.1884057971013,
-															"width": 45,
-															"height": 52
-														},
-														"visible": true,
-														"metadata": {
-															"opacity": 1
-														},
-														"image": {
-															"path": "images/Layer-Group_2-rjqxntew.png",
-															"frame": {
-																"x": 378.72141706924316,
-																"y": 1684.1884057971013,
-																"width": 45,
-																"height": 52
-															}
-														},
-														"children": []
-													}
-												]
-											}
-										]
-									},
-									{
-										"objectId": "F0E54F87-62B4-4F62-9DE2-36C0D3057114",
-										"kind": "group",
-										"name": "titlebar5",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 90.57971014492755,
-											"y": 1507.246376811594,
-											"width": 638,
-											"height": 68
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-rjbfntrg.png",
-											"frame": {
-												"x": 90.57971014492755,
-												"y": 1507.246376811594,
-												"width": 638,
-												"height": 68
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							}
 						]
 					},
@@ -887,7 +455,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"objectId": "B667083D-5C48-4542-9E10-EE16E0076FAB",
 						"kind": "group",
 						"name": "keepWatching",
-						"originalName": "keepWatching",
+						"originalName": "keepWatching*",
 						"maskFrame": null,
 						"layerFrame": {
 							"x": -65.21739130434783,
@@ -936,9 +504,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"originalName": "scrollableLiveContent",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 76.59420289855072,
+							"x": 77.59420289855072,
 							"y": 500.1014492753623,
-							"width": 1930,
+							"width": 1929,
 							"height": 462
 						},
 						"visible": true,
@@ -948,9 +516,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"image": {
 							"path": "images/Layer-scrollableLiveContent-nui4ruux.png",
 							"frame": {
-								"x": 76.59420289855072,
+								"x": 77.59420289855072,
 								"y": 500.1014492753623,
-								"width": 1930,
+								"width": 1929,
 								"height": 462
 							}
 						},
@@ -959,7 +527,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"objectId": "D0043FFC-AAEA-4BFD-A96F-90E134979B62",
 								"kind": "group",
 								"name": "cnn",
-								"originalName": "cnn",
+								"originalName": "cnn*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -968,7 +536,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								},
 								"layerFrame": {
 									"x": 1379.5942028985507,
-									"y": 509.8840579710146,
+									"y": 510.8840579710145,
 									"width": 627,
 									"height": 450
 								},
@@ -980,46 +548,18 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-cnn-rdawndng.png",
 									"frame": {
 										"x": 1379.5942028985507,
-										"y": 509.8840579710146,
+										"y": 510.8840579710145,
 										"width": 627,
 										"height": 450
 									}
 								},
-								"children": [
-									{
-										"objectId": "F97AE705-0A6F-4087-A995-A16A7D77F147",
-										"kind": "group",
-										"name": "titlebar6",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 1321.68115942029,
-											"y": 514.4927536231885,
-											"width": 799,
-											"height": 450
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-rjk3quu3.png",
-											"frame": {
-												"x": 1321.68115942029,
-												"y": 514.4927536231885,
-												"width": 799,
-												"height": 450
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "3840C635-936D-400F-9F74-B01F791ADCA7",
 								"kind": "group",
 								"name": "elf",
-								"originalName": "elf",
+								"originalName": "elf*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -1028,7 +568,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								},
 								"layerFrame": {
 									"x": 723.5942028985507,
-									"y": 506.88405797101456,
+									"y": 508.8840579710145,
 									"width": 631,
 									"height": 453
 								},
@@ -1040,46 +580,18 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"path": "images/Layer-elf-mzg0mem2.png",
 									"frame": {
 										"x": 723.5942028985507,
-										"y": 506.88405797101456,
+										"y": 508.8840579710145,
 										"width": 631,
 										"height": 453
 									}
 								},
-								"children": [
-									{
-										"objectId": "BC1A6B0E-F9E9-4590-9D05-B1AEF03D24EF",
-										"kind": "group",
-										"name": "titlebar7",
-										"originalName": "titlebar",
-										"maskFrame": null,
-										"layerFrame": {
-											"x": 731.8840579710145,
-											"y": 510.86956521739137,
-											"width": 642,
-											"height": 68
-										},
-										"visible": true,
-										"metadata": {
-											"opacity": 1
-										},
-										"image": {
-											"path": "images/Layer-titlebar-qkmxqtzc.png",
-											"frame": {
-												"x": 731.8840579710145,
-												"y": 510.86956521739137,
-												"width": 642,
-												"height": 68
-											}
-										},
-										"children": []
-									}
-								]
+								"children": []
 							},
 							{
 								"objectId": "13461AA6-6F8A-452F-8B14-D533746757D1",
 								"kind": "group",
 								"name": "ugagt",
-								"originalName": "ugagt",
+								"originalName": "ugagt*",
 								"maskFrame": {
 									"x": 0,
 									"y": 0,
@@ -1087,9 +599,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 									"height": 441.2865694234681
 								},
 								"layerFrame": {
-									"x": 76.59420289855072,
+									"x": 77.59420289855072,
 									"y": 500.88405797101456,
-									"width": 633,
+									"width": 632,
 									"height": 462
 								},
 								"visible": true,
@@ -1099,9 +611,9 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 								"image": {
 									"path": "images/Layer-ugagt-mtm0njfb.png",
 									"frame": {
-										"x": 76.59420289855072,
+										"x": 77.59420289855072,
 										"y": 500.88405797101456,
-										"width": 633,
+										"width": 632,
 										"height": 462
 									}
 								},
@@ -1113,7 +625,7 @@ window.__imported__["1220kelsoSync@1x/layers.json.js"] = [
 						"objectId": "18ABE67F-2B28-4744-9C64-9A798C28812D",
 						"kind": "group",
 						"name": "whatsLive",
-						"originalName": "whatsLive",
+						"originalName": "whatsLive*",
 						"maskFrame": null,
 						"layerFrame": {
 							"x": -40.40579710144928,
