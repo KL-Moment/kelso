@@ -215,7 +215,8 @@ isBlairthere = () ->
 		$.mainContent.animate 
 			opacity: 0
 		$.scrollableMainContent.visible = true 
-		$.scrollableMainContent.opacity = 1
+		$.scrollableMainContent.animate
+			opacity: 1
 
 		
 blair.onTap (event,layer) ->
