@@ -210,6 +210,8 @@ isBlairthere = () ->
 			opacity: 1
 		$.scrollableMainContent.visible = false
 		$.scrollableMainContent.opacity = 0
+		blair.animate
+			opacity: 1
 	if blairInTheRoom == false 
 		$.mainContent.visible = false
 		$.mainContent.animate 
@@ -217,11 +219,12 @@ isBlairthere = () ->
 		$.scrollableMainContent.visible = true 
 		$.scrollableMainContent.animate
 			opacity: 1
+		blair.animate
+			opacity: .5
 
 		
 blair.onTap (event,layer) ->
 	blairInTheRoom = !blairInTheRoom
-	blair.animate
-		opacity: blairInTheRoom * 0.75 + 0.25
 	isBlairthere()
+	
 
