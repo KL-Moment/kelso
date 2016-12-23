@@ -54,6 +54,9 @@ blairCatchUp = [$.$30Rock, $.$30RockDulledOut,$.billions, $.dulledOutBillions, $
 
 youreWatching = [$.parksAndRec, $.parksAndRecDulled, $.bachelor, $.bachelorDulledOut, $.nakedandafraid, $.nakedAndAfraidDulled]
 
+$.searchbar.y = Screen.height*2 - 250
+
+
 #animate live options
 for key, value of liveTrippAlone
 	value.on Events.MouseOver, ->
@@ -159,6 +162,8 @@ for key, value of blairCatchUp
 			scale: 1
 			options:
 				time: 0.25
+
+
 # $.searchbar.placeBefore($.scrollableMainContent)
 # $.searchbar.centerFrame
 # $.searchbar.y = 1500

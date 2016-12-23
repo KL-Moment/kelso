@@ -3,7 +3,7 @@
 
   },
   "deviceOrientation" : 0,
-  "sharedPrototype" : 0,
+  "sharedPrototype" : 1,
   "contentScale" : 0.5,
   "deviceType" : "apple-iphone-7-gold",
   "selectedHand" : "",
